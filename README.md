@@ -57,3 +57,24 @@ http://sg.cvacetv.ga/vtv5
 http://vn1.cvacetv.ga/4KUHD
 #EXTINF:0,World Cup 4K Sever 2
 http://live-vn.cvacetv.ga:8080/4KUHD
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
+http://vn2.cvacetv.ga/vtv1
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
+http://vn2.cvacetv.ga/vtv2
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
+http://sg.cvacetv.ga/vtv2
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
+http://vn2.cvacetv.ga/vtv3
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
+http://sg.cvacetv.ga/vtv3
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
+http://vn2.cvacetv.ga/vtv5
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
+http://sg.cvacetv.ga/vtv5
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/4k.png",CVmedia Live 4K
+http://vn2.cvacetv.ga/4KUHD
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/4k.png",CVmedia Live 4K
+#EXTINF:-1 tvg-id="vtv6hd" group-title="WORLD CUP 2022 - Nguyễn Trọng Hiển" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtvct
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
+http://vn1.cvacetv.ga/4KUHD
